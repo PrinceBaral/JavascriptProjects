@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    padding-top: 10%;
+    overflow: auto; 
+}
+
+.passs{
+    padding-left: 35%;
+    float: left;
+    
+}
+
+.eyebutton{
+    float: right;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.fa {
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+    position: absolute;
+}
+.fa:hover {
+    color: red;
+}
